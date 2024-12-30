@@ -41,7 +41,7 @@ For equality, Meet the queens of the code jungle, smashing bugs, and breaking st
 ---
 
 ## 🤷‍♂️ **Nice Try**  
-For the unsung heroes who burn the midnight oil, fight the weekend blues, and somehow still miss the other categories. We see you. We salute you. And we suggest you sleep. 🛌☕  
+For the unsung heroes who burn the midnight oil, fight the weekend blues, and somehow still miss the other nomination categories. We see you. We salute you. And we suggest you sleep. 🛌☕  
 
 | **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 🤦 |  
 |------------------|-------------|--------------------|---------------------|  
