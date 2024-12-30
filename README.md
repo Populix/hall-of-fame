@@ -40,6 +40,17 @@ For equality, Meet the queens of the code jungle, smashing bugs, and breaking st
 
 ---
 
+## 🤷‍♂️ **Nice Try**  
+For the unsung heroes who burn the midnight oil, fight the weekend blues, and somehow still miss the other categories. We see you. We salute you. And we suggest you sleep. 🛌☕  
+
+| **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 🤦 |  
+|------------------|-------------|--------------------|---------------------|  
+| ? | ? | ? | ? |    
+
+**🏅 Pro Tip:** Don’t worry, legends take time to build. Keep at it—you’ll get there! Do not hestitate to take a sleep 💪  
+
+---
+
 ## 💡 **Why This Repository?**  
 
 We believe in recognizing everyone’s contributions—big or small! It’s not just about lines of code; it’s about being part of an amazing team. Let’s celebrate the efforts, laugh at the journey, and motivate each other to keep improving.  
