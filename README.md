@@ -11,6 +11,8 @@ Welcome to the **Populix Hall of Fame** repository! This is where we celebrate t
 ---
 
 # 2024 Hall of Fame
+![image](https://github.com/user-attachments/assets/fa3db72b-95cb-4bfa-b1f5-ddb785fa0068)
+
 
 ## 🏆 **Top Contributors**  
 Let’s give it up for the legends who carried the sprint, squashed the bugs, and pushed code like there's no tomorrow. Your brilliance inspires us!  
