@@ -5,6 +5,9 @@
 
 Welcome to the **Populix Hall of Fame** repository! This is where we celebrate the champions of code, the warriors of commits, and the heroes of pull requests. Whether you're a superstar or an underdog, you’ve earned your spot here! 🚀
 
+> ⚠️ **Disclaimer:** This Hall of Fame is just for fun! It’s meant to celebrate the quirks, humor, and contributions of our team and does not reflect individual performance or official evaluations. Keep it lighthearted and enjoy the ride! 🎉  
+
+
 ---
 
 # 2024 Hall of Fame
@@ -12,9 +15,9 @@ Welcome to the **Populix Hall of Fame** repository! This is where we celebrate t
 ## 🏆 **Top Contributors**  
 Let’s give it up for the legends who carried the sprint, squashed the bugs, and pushed code like there's no tomorrow. Your brilliance inspires us!  
 
-| **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 🌟 |  
+| **Contributor** | **Commits** | **Longest Streak** | **Impact Rating** 🌟 |  
 |------------------|-------------|--------------------|---------------------|  
-| ? | ? | ? | ? |  
+| [Saefulloh Maslul](https://github.com/saefullohmaslul) | 2.899 | 32 Days | Sage 😎  |  
 
 
 **👏 A big round of applause to all our top contributors!**
@@ -24,9 +27,9 @@ Let’s give it up for the legends who carried the sprint, squashed the bugs, an
 ## 🐢 **Least Contributors**  
 Here’s a shoutout to those who keep the spirit alive, one small commit at a time. Every line matters, and we're glad you're here!  
 
-| **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 🌈 |  
+| **Contributor** | **Commits** | **Longest Streak** | **Impact Rating** 🌈 |  
 |------------------|-------------|--------------------|---------------------|  
-| ? | ? | ? | ? |    
+| [Aji Muhammad Timur](github.com/ajitpopulix) | 1 | 0 Days | Rookie 🤡 |    
 
 **🎉 Keep going! Every commit counts toward greatness. You are not useless.**
 
@@ -37,7 +40,7 @@ For equality, Meet the queens of the code jungle, smashing bugs, and breaking st
 
 | **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 💅 |  
 |------------------|-------------|--------------------|---------------------|  
-| ? | ? | ? | ? |    
+| [Ajeng Puspa](https://github.com/dappsh) | 2.287 | 6 Days | Sage 😎  |  
 
 **✨ Fun Fact:** They don’t just break the glass ceiling; they refactor it into a skylight. 🔧💻  
 
@@ -48,7 +51,7 @@ For the unsung heroes who burn the midnight oil, fight the weekend blues, and so
 
 | **Contributor** | **Commits** | **Lines of Code** | **Impact Rating** 🤦 |  
 |------------------|-------------|--------------------|---------------------|  
-| ? | ? | ? | ? |    
+| [Radi Rusadi](https://github.com/RadiRS) | 2.215 | **FOURTY NINE DAYS** | No Life 🤕  |      
 
 **🏅 Pro Tip:** Don’t worry, legends take time to build. Keep at it—you’ll get there! Do not hestitate to take a sleep 💪  
 
